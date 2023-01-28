@@ -1,8 +1,8 @@
 Session 2 assignment 
 in a group of 3 (Alice, Cynthia and Henos) we came up with examples that incorporated different types of widgets 
-Question1 incorporates Container and Padding (see 'q1')
-Question2 incorporates ConstrainedBox (see 'q2')
-Question3 incorporates SizedBox (see 'q3')
+Question1 incorporates Container and Padding (see 'Q1')
+Question2 incorporates ConstrainedBox (see 'Q2')
+Question3 incorporates SizedBox (see 'Q3')
 Question4 incorporates FittedBox
 Question5 incorporates RotatedBox
 Question6 incorporates List of flutter Icons

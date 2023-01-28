@@ -11,8 +11,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         // The AppBar is the top bar of the app, it contains the title of the app
         appBar: AppBar(
-          backgroundColor: Colors
-              .orange, // sets the background color of the app bar to orange
+          backgroundColor: Colors.orange, // sets the background color of the app bar to orange
           title: Text(
               "Group assignment"), // sets the title of the app bar to "Group assignment"
         ),

@@ -28,6 +28,7 @@ class _MyAppState extends State<MyApp> {
       home: Scaffold(
         //Scaffold widget provides a basic layout structure
         appBar: AppBar(
+          backgroundColor: Color(0xffffe700),
           title: Text('Question 3'),
           //color: Color(0xffffe700),
         ),
@@ -57,6 +58,7 @@ class _MyAppState extends State<MyApp> {
           ),
         ),
         floatingActionButton: FloatingActionButton(
+          backgroundColor: Color(0xff9b17bc),
           onPressed:
               _incrementCounter, // when pressed, the onPressed function is called
           tooltip: 'Increment',

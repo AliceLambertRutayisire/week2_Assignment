@@ -53,11 +53,11 @@ Widget build(BuildContext context) {
 				// row with 2 children
 				child: Row(
 					children: [
-					Icon(Icons.star),
+					
 					SizedBox(
 						width: 10,
 					),
-					Text("Option 1")
+					Text("Example 1")
 					],
 				),
 				),
@@ -67,11 +67,11 @@ Widget build(BuildContext context) {
 				// row with two children
 				child: Row(
 					children: [
-					Icon(Icons.chrome_reader_mode),
+					
 					SizedBox(
 						width: 10,
 					),
-					Text("Option 2")
+					Text("Example 2")
 					],
 				),
 				),

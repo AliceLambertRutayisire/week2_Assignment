@@ -94,7 +94,7 @@ Widget build(BuildContext context) {
 		),
 		// body with centered text
 		body: Center(
-		child: Text("Press on the three dots at the to right corner"),
+		child: Text("Press on the three dots at the top right corner"),
 		),
 	),
 	);
